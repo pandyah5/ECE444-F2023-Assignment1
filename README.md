@@ -5,3 +5,6 @@ First commit screenshot
 
 Develop branch merge screenshot
 ![Merged develop branch](https://github.com/pandyah5/ECE444-F2023-Assignment1/blob/master/develop_merge.png?raw=true)
+
+Successful pull request screenshot
+![Pull request](https://github.com/pandyah5/ECE444-F2023-Assignment1/blob/master/pull_request.png?raw=true)
